@@ -33,7 +33,7 @@ const Home = () => {
         <Box textAlign="center" my={4}>
           <Button
             as={NextLink}
-            href="http://localhost:3000/quiz"
+            href="https://aprende-mas.vercel.app/quiz"
             rightIcon={<CheckIcon />}
             colorScheme="teal"
           >
